@@ -13,5 +13,13 @@
     "test"
   ],
   "author": "soneway",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soneway/npm-pub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soneway/npm-pub/issues"
+  },
+  "homepage": "https://github.com/soneway/npm-pub#readme"
 }
