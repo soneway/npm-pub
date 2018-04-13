@@ -1,0 +1,17 @@
+{
+  "name": "soneway-npm-pub",
+  "version": "1.0.2",
+  "description": "npm-pub test",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "soneway": "./index.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "soneway",
+  "license": "ISC"
+}
